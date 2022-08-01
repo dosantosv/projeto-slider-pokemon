@@ -1,0 +1,11 @@
+/* O RESET.CSS SERVE PARA RESETAR OS STYLES QUE VEM COMO PADRÃO NO SITE */
+
+* { /* SELETOR GLOBAL */
+    margin: 0; /* ESPAÇAMENTO DE UM ELEMENTO PRO OUTROS */
+    padding: 0; /* ESPAÇAMENTO INTERNO */
+    box-sizing: border-box; 
+}
+
+ul {
+    list-style: none; 
+}
